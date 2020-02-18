@@ -1,0 +1,15 @@
+.inner-container {
+    max-width: 30%;
+    margin: 0.5rem;
+    padding: 0.3rem;
+    border: 1px solid #ccc;
+
+    img {
+        width: 100%;
+    }
+
+    .author {
+        display: block;
+        border-bottom: 1px solid rgb(49, 49, 49);
+    }
+}
