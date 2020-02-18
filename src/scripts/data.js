@@ -66,3 +66,9 @@ const recipes = {
     }
     ],
 };
+
+// export { recipes };
+
+// convert data to string
+let jsonRecipes = JSON.stringify(recipes);
+export { jsonRecipes };
